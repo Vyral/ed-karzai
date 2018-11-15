@@ -19,13 +19,13 @@ client:
   brand: Karzai Real Estate Group
   brokerage: Keller Williams Realty San Jose Gateway
   market: San Jose
-  address: 180 Great Oaks Blvd., San Jose, CA 95119
+  address:
   phone: 408-893-6607
   phone_type:
   phone2:
   phone2_type:
   email: ekarzai@kw.com
-  url: http://CharmingSiliconValleyHomes.com
+  url: http://karzairealestategroup.com<br>CA DRE# 01801399
 
 CTAs:
   first_CTA_text: Home Valuation
