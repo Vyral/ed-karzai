@@ -1,5 +1,5 @@
 audit_header: false
-title: San Jose Real Estate Video Blog with Ed Karzai
+title: Bay Area Real Estate blog with Ed Karzai
 description: Our mission at Karzai Real Estate Group is to be your best resource for San Jose real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Karzai Real Estate Group, your professional San Jose Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -86,7 +86,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 30
-  hero_text: San Jose Real Estate Video Blog
+  hero_text: Bay Area Real Estate blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
