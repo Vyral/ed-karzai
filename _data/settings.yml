@@ -6,7 +6,7 @@ custom_links:
   - title:
     url:
 show_custom_links_new_tab: false
-custom_links_new_tab:
+custom_links_new_tab:s
   - title:
     url:
 
@@ -18,7 +18,7 @@ client:
     Ed grew up in the Bay Area and knows each community. He graduated from San Jose State University with a degree in Engineering. After several years in the high-tech industry, he realized his real passion is helping people and thus became a Real Estate Professional. To Ed, Trust is earned not given. He has built his business through integrity and character. For sellers, Ed consistently sells his listings above market value. For buyers, Ed gets his offers accepted faster than most agents out there. Why? Because he knows the art of negotiation. If you would like to experience the difference, please call Ed today to set up a Free Consultation.
   brand: Karzai Real Estate Group
   brokerage: Keller Williams Realty San Jose Gateway
-  market: San Jose
+  market: Bay Area
   address: 180 Great Oaks Blvd., San Jose, CA 95119
   phone: 408-893-6607
   phone_type:
@@ -35,15 +35,15 @@ CTAs:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your San Jose Home Worth?"
+    CTA_title: "What’s Your Bay Area Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
     CTA_url: https://www.charmingsiliconvalleyhomes.com/sell/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a San Jose Home?"
-    CTA_text2: "Search the entire MLS for your San Jose home."
+    CTA_title2: "Looking for a Bay Area Home?"
+    CTA_text2: "Search the entire MLS for your Bay Area home."
     CTA_link_text2: "Search the MLS"
     CTA_url2: https://www.charmingsiliconvalleyhomes.com/results-map
 
@@ -74,12 +74,12 @@ socials:
   podcast_url:
 
 podcast:
-  title: 'San Jose Real Estate Podcast with Ed Karzai'
+  title: 'Bay Area Real Estate Podcast with Ed Karzai'
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the San Jose Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Karzai Real Estate Group - your professional San Jose Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Jose, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Karzai Real Estate Group - your professional Bay Area Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in the Bay Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: 'Ed Karzai'
 
 images:
