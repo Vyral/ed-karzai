@@ -23,7 +23,7 @@ A lot goes into a real estate transaction, but there are some things that home s
 
 **1. They think can sell on their own.** Technically, you can put up a for-sale sign and see what happens, but there’s a lot more involved in selling a home. You want the knowledge and expertise of a real estate professional. They’ll help you prepare, negotiate, and market your listing—not to mention all the paperwork they’ll take off your hands!
 
-**2. They think their home is worth more.** A home is very personal, so of course sellers think their own is worth more than what it really is. You have to be logical and look at market data in order to give your home an accurate value.
+**2. They think their home is worth more than it is.** A home is very personal, so of course sellers think their own is worth more than what it really is. You have to be logical and look at market data in order to give your home an accurate value.
 
 {% include pullquote.html %}
 
