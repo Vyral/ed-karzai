@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/oqByhBIkBig'
 
 If costly heating bills have been weighing on your mind (and wallet) lately, these six tips will help lighten the load and reduce your monthly energy expenses.
 
-**1. Regularly replace your furnace filter.** Not only will this improve your heater’s function and reduce your monthly bills, but it will also keep your system in good shape and, therefore, lengthen its lifespan.&nbsp;<br><br>**2. Clean your air ducts.** Doing this every other year or at least once every three years will keep your heater running smoothly.
+**1. Regularly replace your furnace filter.** Not only will this improve your heater’s functionality and reduce your monthly bills, but it will also keep your system in good shape and, therefore, lengthen its lifespan.&nbsp;<br><br>**2. Clean your air ducts.** Doing this every other year, or at least once every three years, will keep your heater running smoothly.
 
 {% include pullquote.html %}
 
