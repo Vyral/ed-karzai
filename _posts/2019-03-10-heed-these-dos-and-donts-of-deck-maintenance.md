@@ -43,7 +43,7 @@ And, then there are the don’ts:&nbsp;<br><br><u><strong>Don&rsquo;t sand your 
 
 Apart from the do’s and don’ts of deck maintenance, there are three deck-related things you’ll want to keep a watchful eye on:&nbsp;
 
-1. **Dry rot**
+1. Dry rot
 2. Cracks&nbsp;
 3. Movement &nbsp; &nbsp;
 
