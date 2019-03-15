@@ -9,8 +9,8 @@ excerpt: >-
   its finest.
 enclosure:
 pullquote: >-
-  If nails in your deck are raised, if your deck is missing boards, or the wood
-  is splitting, you want to tackle these issues sooner rather than later.
+  If nails in your deck are raised, your deck is missing boards, or the wood is
+  splitting, you want to tackle these issues sooner rather than later.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -27,9 +27,9 @@ First, let’s go over the do’s.&nbsp;
 
 <u><strong>Do seal your deck every two to three years.</strong></u> The most efficient means of doing this is using an all-in-one stain and sealer. I would advise against painting your deck, because it will peel over time. Staining is the best option.&nbsp;
 
-<u><strong>Do remove debris regularly.</strong></u> Letting debris settle on your deck will cause moisture and mildew to grow, &nbsp;thereby leaving behind stains on your deck.&nbsp;
+<u><strong>Do remove debris regularly.</strong></u> Letting debris settle on your deck will cause moisture and mildew to grow thereby leaving behind stains on your deck.&nbsp;
 
-<u><strong>Do fix small issues before they become bigger ones.</strong></u> For example, if nails in your deck are raised, if your deck is missing boards, or the wood is splitting, you want to tackle these issues sooner rather than later. Non-action is only going to lead to bigger problems later on down the road.
+<u><strong>Do fix small issues before they become bigger ones.</strong></u> For example, if nails in your deck are raised, your deck is missing boards, or the wood is splitting, you want to tackle these issues sooner rather than later. Non-action is only going to lead to bigger problems later on down the road.
 
 {% include pullquote.html %}
 
