@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 5 Important Tasks New Homeowners Commonly Take On
-date: 2019-04-02 20:27:39
+date: 2019-04-02 20:27:00
 tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: >-
-  If you’ve just bought a home, here are a few maintenance tasks you should
-  consider getting started on.
+  If the inside of your new home hasn’t been painted in a while, painting it is
+  the best way to give it a clean, fresh, new look.
 enclosure:
 pullquote: >-
   We’d love to have your help—with your support, we’d be honored to win the
@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/rxFypZyFI_o'
 
 {% include youtube.html %}
 
-Here are five things buyers typically do when they move into their new house that you should think about doing if you’ve just bought a home:&nbsp;
+Here are five things buyers typically do after moving into a new house:
 
 **1. Change the locks.** You don’t know who else has access to your new home, so re-keying the locks is an obvious security measure.&nbsp;
 
