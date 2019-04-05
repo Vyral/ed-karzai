@@ -30,7 +30,7 @@ Here are five things buyers typically do after moving into a new house:
 * The carpet—If your house is carpeted, it’s a good idea to get it professionally steam-cleaned. If the carpet has a lot of wear and tear, you might be better off just replacing it.&nbsp;
 * Air ducts—These ducts can get pretty dirty over time, so cleaning them and replacing the filter in your furnace is a no-brainer. &nbsp;
 * Chimney—If your house has a chimney and a fireplace and you plan on using that fireplace, it’s a good idea to get the chimney cleaned.&nbsp;
-* Window fixtures
+* Window fixtures.
 
 **3. Paint the interior.** If the inside of your new home hasn’t been painted in a while, painting it is the best way to give it a clean, fresh, new look. This will also give you a good bang for your buck when the time comes to sell it.
 
