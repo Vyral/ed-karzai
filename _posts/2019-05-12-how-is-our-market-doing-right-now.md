@@ -37,4 +37,4 @@ This is especially true for “entry-level” price points, where activity is st
 
 In short, it’s time to act. Our market is very strong and balanced right now. Buyers and sellers alike have a lot of opportunity before them, so if you’ve been thinking of pursuing your real estate goals, please reach out.
 
-As always, we’d be happy to talk or answer any questions you may have. If you’d like more information or want to talk about your plans to buy or sell, feel free to give us a call or send us an email. We look forward to hearing from you soon.<br>&nbsp;
+As always, we’d be happy to talk or answer any questions you may have. If you’d like more information or want to talk about your plans to buy or sell, feel free to give us a call or send us an email. We look forward to hearing from you soon.&nbsp;<br>&nbsp;
