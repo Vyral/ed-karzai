@@ -38,8 +38,10 @@ Once we have all our data gathered, we really only need three comparable sales t
 
 **After you have all your comps, it’s time to make adjustments to them, of which there are three:&nbsp;**
 
-1. Condition. If you find a comp that sold for $700,000 but that home is a fixer-upper while yours is remodeled, your home will be valued higher.&nbsp;
-2. Location. You can have two homes on the same street, but if one of those homes sits on the corner and is around a lot of noise, that makes a big difference.&nbsp;
-3. Schools. You can have multiple school districts in the same neighborhood, but those school districts might be rated differently, which can have a big impact on home values.&nbsp;
+**1\. Condition.** If you find a comp that sold for $700,000 but that home is a fixer-upper while yours is remodeled, your home will be valued higher.&nbsp;
+
+**2\. Location.** You can have two homes on the same street, but if one of those homes sits on the corner and is around a lot of noise, that makes a big difference.&nbsp;
+
+**3\. Schools.** You can have multiple school districts in the same neighborhood, but those school districts might be rated differently, which can have a big impact on home values.&nbsp;
 
 If you have any questions about this or any other real estate topic, don’t hesitate to reach out to me. I’d love to help you.&nbsp;<br>&nbsp;
