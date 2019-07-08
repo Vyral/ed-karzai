@@ -12,13 +12,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/option-1.jpg
+youtube_alternate_image: /uploads/ed-karzai---beware-these-common-summer-cleaning-mistakes-youtube.jpg
 youtube_code: 'https://youtu.be/sYUe-bpRlsQ'
 ---
 
 {% include youtube.html %}
 
-As homeowners, we see spring and summer as a prime opportunity to get some of our deep cleaning taken care of. Before you roll up your sleeves and get to work, though, be mindful of these common cleaning mistakes.&nbsp;
+As homeowners, we see spring and summer as prime opportunities to get some of our deep cleaning taken care of. Before you roll up your sleeves and get to work, though, be mindful of these common cleaning mistakes.&nbsp;
 
 **1\. Not having a plan.** Anything worth doing starts with a plan. Without one, you’ll be pretty aimless in your cleaning efforts.&nbsp;
 
