@@ -39,4 +39,4 @@ Once you’re approved to do a short sale, it’s up to you to hire a real estat
 
 **Both of these transactions will have a negative impact on your credit.** Short sales typically stay on a credit report for three years, while foreclosures stay on for five to seven years. During that time, it’s pretty much impossible for you to qualify for another loan to buy a home, so you’ll have to wait until either of these sales are removed from your credit report.&nbsp;
 
-As always, if you have any questions about this or any other real estate topic, don’t hesitate to reach out to me. I’d love to help you.
+As always, if you have any questions about this or any other real estate topic, don’t hesitate to reach out to me. I’d love to help you.&nbsp;
