@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  Short sales and foreclosures differ in process, but each has a negative impact
-  on your credit
+title: 'Short Sales, Foreclosures, and the Difference Between The 2 Transactions'
 date: 2019-08-21 00:00:00
 tags:
   - Real Estate
