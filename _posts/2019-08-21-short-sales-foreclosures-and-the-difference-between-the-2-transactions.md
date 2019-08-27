@@ -14,7 +14,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/ed-karzai--whats-the-difference-between-a-short-sale-and-a-foreclosure-youtube.jpg
-youtube_code: 'https://youtu.be/-5SFzPVkDgk'
+youtube_code: 'https://youtu.be/My4XS1WKjzA'
 ---
 
 {% include youtube.html %}
@@ -29,12 +29,12 @@ At an auction, they’ll sell the home to the highest bidder, usually for cash a
 
 {% include pullquote.html %}
 
-**A short sale occurs when the homeowner owes more than what the home is worth.** For example, if you owe $600,000 on the home and sell it for $500,000, you’d still be short $100,000 from paying their loan in full. That’s why it’s called a “short” sale.&nbsp;
+**A short sale occurs when the homeowner owes more than what the home is worth.** For example, if you owe $600,000 on the home and sell it for $500,000, you’d still be short $100,000 from paying your loan in full. That’s why it’s called a “short” sale.&nbsp;
 
 If you want to sell your home as a short sale, you need to get approved by your bank first. To approve your sale, they’ll usually check if you’ve had some sort of hardship. By the bank’s standards, hardships include a job loss, health issues, divorce, the loss of a loved one, or other life-changing events. &nbsp;
 
-Once you’re approved to do a short sale, it’s up to you to hire a real estate agent, list the home on the open market (and market it as a short sale), and sell it for as much money possible. The bank will then pay your closing costs and forgive the difference that you’re short.&nbsp;
+Once you’re approved to do a short sale, it’s up to you to hire a real estate agent, list the home on the open market (and market it as a short sale), and sell it for as much money as possible. The bank will then pay your closing costs and forgive the difference that you’re short.&nbsp;
 
-**Both of these transactions will have a negative impact on your credit.** Short sales typically stay on a credit report for three years, while foreclosures stay on for five to seven years. During that time, it’s pretty much impossible for you to qualify for another loan to buy a home, so you’ll have to wait until either of these sales are removed from your credit report.&nbsp;
+**Both of these transactions will have a negative impact on your credit.** Short sales typically stay on a credit report for three years, while foreclosures stay on for five to seven years. During that time, it’s pretty much impossible for you to qualify for another loan to buy a home, so you’ll have to wait until either of these sales is removed from your credit report.&nbsp;
 
 As always, if you have any questions about this or any other real estate topic, don’t hesitate to reach out to me. I’d love to help you.&nbsp;
