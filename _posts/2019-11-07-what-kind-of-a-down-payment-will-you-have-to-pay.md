@@ -13,7 +13,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/option-2-1.jpg
+youtube_alternate_image: >-
+  /uploads/ed-karzai--what-kind-of-a-down-payment-will-you-have-to-pay-youtube.jpg
 youtube_code: 'https://youtu.be/yfDN6pL1yaQ'
 ---
 
