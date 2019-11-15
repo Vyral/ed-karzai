@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/yfDN6pL1yaQ'
 
 As a buyer, what kind of a down payment should you expect to make when applying for financing?
 
-First, don’t believe the common misconception that you must put down 20% to buy a home. That’s absolutely not true; lenders are more flexible than that. However, you still need to qualify for financing. If you do qualify, you can put as little as 3.5% down (if you use an FHA loan). After you qualify, the less you put down, the more your down payment will be.&nbsp;
+First, don’t believe the common misconception that you must put down 20% to buy a home. That’s absolutely not true; lenders are more flexible than that. However, you still need to qualify for financing. If you do qualify, you can put as little as 3.5% down (if you use an FHA loan). After you qualify, the less you put down, the more your monthly payment will be.&nbsp;
 
 When you meet with a lender to qualify for financing, they’ll look at three main criteria: **income, debt, and credit score.** For your income, they’ll take into account your gross income. If you’re a W-2 employee, they’ll use your monthly gross income. If you’re self-employed, they’ll use your adjusted net income.
 
