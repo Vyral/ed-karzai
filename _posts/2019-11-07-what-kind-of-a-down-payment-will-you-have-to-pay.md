@@ -15,7 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/ed-karzai--what-kind-of-a-down-payment-will-you-have-to-pay-youtube.jpg
-youtube_code: 'https://youtu.be/yfDN6pL1yaQ'
+youtube_code: 'https://youtu.be/wZiVcVotkZE'
 ---
 
 {% include youtube.html %}
