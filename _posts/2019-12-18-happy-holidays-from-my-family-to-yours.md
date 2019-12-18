@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Happy Holidays, From My Family to Yours'
-date: 2019-12-18 20:25:52
+date: 2019-12-18 20:25:00
 tags:
   - Real Estate
 excerpt: >-
