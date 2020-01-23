@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Did the 2019 Market Do?
-date: 2020-01-23 18:07:01
+date: 2020-01-23 18:07:00
 tags:
   - Market Update
 excerpt: >-
