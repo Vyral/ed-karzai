@@ -24,7 +24,7 @@ youtube_code: akj8qe442IQ
 
 Today, let’s take a look back on the 2019 real estate market as a whole to understand how the observed market trends impacted where we are in our current market.
 
-The numbers we pulled showed us that between 2018 and 2019, the average median sales price dropped by about 10%. However, the net decrease was actually about 5%, since prices dropped down and then climbed back up some.
+The numbers showed us that between 2018 and 2019, the average median sales price dropped by about 10%. However, the net decrease was actually about 5%, since prices dropped down and then climbed back up some.
 
 So why did prices go down?
 
@@ -32,6 +32,6 @@ So why did prices go down?
 
 In the spring of 2019, rates dropped considerably, falling as far as the middle threes; they hadn’t been that low for two years. That sparked the market back up again, and even today, rates on a 30-year fixed-rate mortgage average in the high threes, which is still very low.
 
-So where does that leave us today? Well, today’s market is very healthy. There are still a lot of buyers in the market, rates are low, sellers are still getting good prices.
+So where does that leave us today? Well, today’s market is very healthy. There are still a lot of buyers in the market, rates are low, and sellers are still getting good prices.
 
 As always, if you have any further questions about the market or real estate in general, don’t hesitate to reach out. I would love to hear from you.
