@@ -20,7 +20,8 @@ youtube_code: akj8qe442IQ
 
 {% include youtube.html %}
 
-*Now that we’ve officially entered the new decade, let’s take a quick look back on the 2019 real estate market so you have a general idea of how we fared last year.*
+<p style="text-align: center;"><em>Now that we’ve officially entered the new decade, let’s take a quick look back on the 2019 real estate market so you have a general idea of how we fared last year.</em></p>
+
 
 Today, let’s take a look back on the 2019 real estate market as a whole to understand how the observed market trends impacted where we are in our current market.
 
