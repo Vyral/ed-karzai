@@ -21,14 +21,14 @@ youtube_code: URVTpfgXOYY
 
 What are the rooms inside your home that, if remodeled, would bring you the best return on your investment (ROI)?&nbsp;
 
-The simple answer is **kitchens and bathrooms, by far.** I would start with the kitchen first—it’s the heart of the home where people spend most of their time.&nbsp;
+The simple answer is **kitchens and bathrooms, by far.** I would start with the kitchen first—it’s the heart of the home and where people spend most of their time.&nbsp;
 
-You can do the kitchen two different ways. The first is a structural remodel, meaning that you could knock down a wall to open it up. Ideally, if you do choose to open up your kitchen, you’ll &nbsp;want it to open up to another living space, like a family room. This creates the best atmosphere. Another structural change that will give you great ROI is adding an island. Homebuyers love these, and yours doesn’t have to be too fancy or complex.&nbsp;
+You can upgrade the kitchen two different ways. The first is a structural remodel, meaning that you could knock down a wall to open it up. Ideally, if you do choose to open up your kitchen, you’ll &nbsp;want it to open up to another living space, like a family room. This creates the best atmosphere. Another structural change that will give you great ROI is adding an island. Homebuyers love these, and yours doesn’t have to be too fancy or complex.&nbsp;
 
 {% include pullquote.html %}
 
 Next, focus on the cosmetic changes. Add **new counters, cabinets, appliances, lighting, backsplash, and flooring.** These are a surefire way to create a more attractive space.&nbsp;
 
-As far as bathrooms go, attack the master first, then worry about the additional ones. Keep them clean, simple, and use light colors. If necessary, get new vanities, flooring, bathtubs/showers, lighting and fixtures. **Make sure that you have at least one bathtub in one of your bathrooms.** Many homebuyers do expect their future home to have a tub.
+As far as bathrooms go, attack the master first, then worry about the additional ones. Keep them clean, simple, and use light colors. If necessary, get new vanities, flooring, bathtubs/showers, lighting, and fixtures. **Make sure that you have at least one bathtub in one of your bathrooms.** Many homebuyers do expect their future home to have a tub.
 
-If you have any questions about the information covered in today’s message about ROI, or you’re interested in making some real estate moves, &nbsp;feel free to call or email me. I would love to speak with you.
+If you have any questions about the information covered in today’s message about ROI or you’re interested in making some real estate moves, &nbsp;feel free to call or email me. I would love to speak with you.
