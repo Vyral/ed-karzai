@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Questions Every Homebuyer Should Be Asking
-date: 2020-07-17 18:30:56
+date: 2020-07-17 18:30:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -23,7 +23,7 @@ Today I’m going to answer some of the most common (and important) questions I 
 
 ***How is the neighborhood for the home?*** Is it a safe, quiet neighborhood? How far away is the home from stores, hospitals, and freeways?
 
-***How are the schools? ***Even if you don’t have school-aged children, you want to know about this. The better the school district is in, the better the resale value the home will have.
+***How are the schools?**&nbsp;*Even if you don’t have school-aged children, you want to know about this. The better the school district is in, the better the resale value the home will have.
 
 ***What is the condition of the house?*** Most of this will be uncovered during an inspection. When you do inspections, you’ll need to ask specific questions about the condition and age of the roof, the foundation, the structure, any termite or water damage that may have happened, and how much you might have to pay for immediate repairs once you purchase the home. It’s very important to find out what these answers are so you can budget for them.
 
