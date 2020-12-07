@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Can You Trust Your Zestimate?'
-date: 2020-09-02 18:34:13
+date: 2020-12-06 18:34:00
 tags:
   - Home Seller Tips
 excerpt: We’re taking a look at Zestimates and what they’re actually useful for.
