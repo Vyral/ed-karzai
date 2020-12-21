@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Holiday Holidays From Our Team to You
-date: 2020-12-14 22:31:36
+title: Happy Holidays From Our Team to You
+date: 2020-12-14 22:31:00
 tags:
   - Real Estate
 excerpt: We’re finally near the end of 2020; here’s a big thank-you!
