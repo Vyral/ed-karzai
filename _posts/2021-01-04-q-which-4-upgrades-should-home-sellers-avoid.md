@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Which 4 Upgrades Should Home Sellers Avoid?'
-date: 2021-01-04 21:05:58
+date: 2021-01-04 21:05:00
 tags:
   - Home Seller Tips
 excerpt: These four upgrades won’t give you a good ROI when selling.
@@ -26,11 +26,11 @@ If you’re ready to prepare your home for the market, there are certain upgrade
 
 **2\. Adding crown molding or wainscotting.** This is especially true if you add crown molding to any bedrooms or hallways.&nbsp;
 
+{% include pullquote.html %}
+
 **3\. Building an accent wall.** Again, this upgrade may look nice, but it doesn’t increase the value of your home.&nbsp;
 
 **4\. Making any costly upgrades.** This means replacing the furnace, water heater, or air conditioner. If these items are functioning properly, there’s no need to replace them if you’re looking to maximize your home’s value. If they’re not working, obviously it’s a no-brainer to replace them.&nbsp;
-
-{% include pullquote.html %}
 
 Instead of trying these upgrades, spend your money on high-value areas like the kitchen (as mentioned above), main-level bathrooms, flooring, and outdoor landscape. Another high-value upgrade to consider is repainting—both the exterior and interior.&nbsp;
 
