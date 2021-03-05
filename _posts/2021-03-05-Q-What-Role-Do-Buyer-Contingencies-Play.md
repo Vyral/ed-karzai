@@ -6,13 +6,13 @@ tags:
   - Home Buyer Tips
 excerpt: Here’s what you need to know about buyer contingencies.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Ed+Karzai/Videos/2021/Q_+Which+4+Upgrades+Should+Home+Sellers+Avoid_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Ed+Karzai/Videos/2021/Q_+What+Role+Do+Buyer+Contingencies+Play_.mp4
 pullquote: >-
   Contingencies are strategically very important in a transaction.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/01-04-karzai-youtube.jpg
+youtube_alternate_image: /uploads/buyer-contingencies-yt.jpg
 youtube_code: Zri6gZW_hOE
 ---
 
