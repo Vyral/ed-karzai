@@ -20,7 +20,7 @@ youtube_code: Zri6gZW_hOE
 
 How do buyer contingencies function as part of a real estate contract? Generally, there are three main contingencies for most transactions: the inspection contingency, appraisal contingency, and loan contingency. 
 
-**With the inspection contingency, the buyer basically asks the seller to give them a certain amount of time within the escrow period to review the inspection report and any disclosures** to ensure they’re comfortable enough with their results and the condition of the home to move forward with the transaction. If the seller doesn’t schedule an inspection, the buyer can order their own. Once they’re comfortable with everything, the buyer then removes the contingency in writing. None of these contingencies are removed automatically—they have to be removed by the buyer. 
+**With the inspection contingency, the buyer basically asks the seller to give them a certain amount of time within the escrow period to review the inspection report and any disclosures** to ensure they’re comfortable enough with the condition. If they are, then the transaction can proceed. If the seller doesn’t schedule an inspection, the buyer can order their own. Once they’re comfortable with everything, the buyer then removes the contingency in writing. None of these contingencies are removed automatically—they have to be removed by the buyer. 
 
 If the buyer isn’t satisfied enough with the inspection report to proceed with the transaction, the inspection contingency allows them to cancel the transaction without losing their deposit. If the buyer removes the inspection contingency but later on decides they’re not comfortable moving forward with the deal, it’s too late to keep their deposit. 
 {% include pullquote.html %}
