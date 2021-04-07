@@ -1,12 +1,12 @@
 ---
 layout: post
-title: The Latest Santa Clara Market Data
-date: 2021-03-23 17:35:17
+title: The Latest Santa Clara County Market Data
+date: 2021-04-06 17:35:00
 tags:
   - Market Update
 excerpt: Here’s the latest data from our Santa Clara County real estate market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Ed+Karzai/Videos/2021/The+Latest+Santa+Clara+Market+Data.mp4
+  https://vyralmarketing.s3.amazonaws.com/Ed+Karzai/Videos/2021/The+Latest+Santa+Clara+County+Market+Data.mp4
 pullquote: >-
   The average single-family home has increased in price by 10% to 15% in just
   one year.
