@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How the Seller Rent-Back Agreement Can Help You
-date: 2021-06-21 00:00:00
+date: 2021-07-21 00:00:00
 tags:
-  - Home Seller Tips
+  - Home Selling Tips
 excerpt: Here’s why the seller rent-back agreement is beneficial to certain sellers.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Ed+Karzai/Videos/2021/How+the+Seller+Rent-Back+Agreement+Can+Help+You.mp4
