@@ -18,7 +18,7 @@ youtube_code: sIlN6DDHwTA
 
 You’ve probably heard tons of people speculating about our real estate market. For every person, there’s a different opinion. That’s why today I want to give you a data-driven market update focused on the last three months. **All the data I’ll be talking about today applies to single-family homes in Santa Clara County.**&nbsp;
 
-Our median sales prices for August, September, and October were $1,630,000, $1,610,000, and $1,635,000 respectively. Meanwhile, our list to sales price ratios were 108.1% for August, 107.0% for September, and 110.4% for October. This means that so far this month, people are receiving on average 10.4% more than their asking price at closing.&nbsp;
+Our median sales prices for August, September, and October were $1,630,000, $1,610,000, and $1,635,000 respectively. Meanwhile, our list-to-sales price ratios were 108.1% for August, 107.0% for September, and 110.4% for October. This means that so far this month, people are receiving on average 10.4% more than their asking price at closing.&nbsp;
 
 {% include pullquote.html %}
 
