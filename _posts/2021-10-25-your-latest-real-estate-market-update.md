@@ -24,6 +24,6 @@ Our median sales prices for August, September, and October were $1,630,000, $1,6
 
 The average single-family home took eight days to sell in August, nine days in September, and eight days in October. Things are moving so fast, **it’s barely taking over a week to sell a home.**&nbsp;
 
-Finally, let’s take a look at how much the average single-family Santa Clara home has gone up in value since this time last year. Since October 2020, the average home has increased in value by 17%.&nbsp;
+Finally, let’s take a look at how much the average single-family Santa Clara County home has gone up in value since this time last year. Since October 2020, the average home has increased in value by 17%.&nbsp;
 
 Hopefully, this gave you a good idea of how our market is looking. As you can see, things are still strong, so if you’re looking to buy or sell a home, please reach out to me. I am always willing to help.
