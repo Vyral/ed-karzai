@@ -13,7 +13,7 @@ pullquote: Since this time last year, the average home has increased in value by
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/ed-karzai-ss-10-25-21yt.jpg
+youtube_alternate_image: /uploads/market-update-yt-1.jpg
 youtube_code: sIlN6DDHwTA
 ---
 {% include youtube.html %}
