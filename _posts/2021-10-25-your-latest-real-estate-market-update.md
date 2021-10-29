@@ -4,7 +4,9 @@ title: Your Latest Real Estate Market Update
 date: 2021-10-25 16:30:36
 tags:
     - Market Update
-excerpt: Here’s what you need to know about the Santa Clara real estate market.
+excerpt: >-
+    Here’s what you need to know about the Santa Clara County real estate
+    market.
 enclosure: >-
     https://vyralmarketing.s3.amazonaws.com/Ed+Karzai/Videos/2021/Your+Latest+Real+Estate+Market+Update.mp4
 pullquote: Since this time last year, the average home has increased in value by 17%.
